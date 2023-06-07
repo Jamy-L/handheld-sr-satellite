@@ -1,10 +1,10 @@
 # Handheld SR Satellites
 
-![Handheld SR Satellites](images/algorithm_example.png)
+![image](https://github.com/Jamy-L/handheld-sr-satellite/assets/46826148/dedf2a10-863f-4c68-8dfd-4abbc0b0f423)
 
 **Good News: Our Paper Accepted at CVPR 2023!**
 
-We are pleased to introduce the Handheld SR Satellites project, which applies the Handheld Burst Super Resolution algorithm to satellite imagery. Our paper, authored by John Doe, Jane Smith, and Alex Johnson, has been accepted at CVPR 2023! You can find the paper [here](link_to_paper).
+We are pleased to introduce the Handheld SR Satellites project, which applies the Handheld Burst Super Resolution algorithm to satellite imagery. Our paper, authored by Jamy Lafenetre, Ngoc Long Nguyen, Gabriele Facciolo and Thomas Eboli, has been accepted at CVPR 2023! You can find the paper [here]([link_to_paper](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/papers/Lafenetre_Handheld_Burst_Super-Resolution_Meets_Multi-Exposure_Satellite_Imagery_CVPRW_2023_paper.pdf)).
 
 ## Requirements
 
@@ -27,7 +27,7 @@ To run the code, follow these steps:
 1. Clone this repository:
 
    ```
-   git clone https://github.com/username/handheld-sr-satellites.git
+   git clone https://github.com/username/handheld-sr-satellite.git
    ```
 
 2. Install the required dependencies using pip:
@@ -45,6 +45,7 @@ To run the code, follow these steps:
        "alignment": "Fnet",  # 'Fnet', 'ICA', 'patch ICA', the alignment method
    }
    ```
+   Note that the global ICA require to install the icaflow package available [here](link)
 
 4. Run the `example.py` script:
 
@@ -56,9 +57,9 @@ To run the code, follow these steps:
 
 Here are some examples of the Handheld SR Satellites algorithm applied to satellite imagery:
 
-![Example 1](images/example1.png)
+![Example_1](https://github.com/Jamy-L/handheld-sr-satellite/assets/46826148/05cdb6e0-0525-4cb4-8914-255e0a0cfffc)
 
-![Example 2](images/example2.png)
+![Example_2](https://github.com/Jamy-L/handheld-sr-satellite/assets/46826148/1f294439-8a59-4bb0-81d8-2ecf57a9939e)
 
 ## Evaluation Data
 
