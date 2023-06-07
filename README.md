@@ -4,7 +4,7 @@
 
 **Good News: Our Paper Accepted at CVPR 2023!**
 
-We are pleased to introduce the Handheld SR Satellites project, which applies the Handheld Burst Super Resolution algorithm to satellite imagery. Our paper, authored by Jamy Lafenetre, Ngoc Long Nguyen, Gabriele Facciolo and Thomas Eboli, has been accepted at CVPR 2023! You can find the paper [here]([link_to_paper](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/papers/Lafenetre_Handheld_Burst_Super-Resolution_Meets_Multi-Exposure_Satellite_Imagery_CVPRW_2023_paper.pdf)).
+We are pleased to introduce the Handheld SR Satellites project, which applies the Handheld Burst Super Resolution algorithm to satellite imagery. Our paper, authored by Jamy Lafenetre, Ngoc Long Nguyen, Gabriele Facciolo and Thomas Eboli, has been accepted at CVPR 2023! You can find the paper [here](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/papers/Lafenetre_Handheld_Burst_Super-Resolution_Meets_Multi-Exposure_Satellite_Imagery_CVPRW_2023_paper.pdf).
 
 ## Requirements
 
