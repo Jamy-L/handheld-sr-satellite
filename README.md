@@ -38,7 +38,7 @@ To run the code, follow these steps:
 
 3. Open the `example.py` file and modify the parameters according to your needs:
 
-   ```
+   ```python
    params = {
        "scale": 2,
        "base detail": True,  # Whether to use the base detail decomposition or not
