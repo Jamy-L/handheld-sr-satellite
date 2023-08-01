@@ -64,7 +64,7 @@ Here are some examples of the Handheld SR Satellites algorithm applied to satell
 
 ## Evaluation Data
 
-Synthetic evaluation data for the Handheld SR Satellites project are available in the latest release. You can access the release [here](link_to_release) to explore and evaluate our algorithm.
+Synthetic evaluation data for the Handheld SR Satellites project are available in the latest release. You can access the release [here](https://github.com/Jamy-L/handheld-sr-satellite/releases/tag/1.0) to explore and evaluate our algorithm.
 
 ## License
 
