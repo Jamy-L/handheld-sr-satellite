@@ -58,8 +58,8 @@ def align(cuda_ref_grey, cuda_im_grey, ref_sat_mask, sat_mask, align_args, debug
 # ---- BM + ICA homemade
     if params['alignment'] == 'patch ICA':
         reference_pyramid = align_args['reference_pyramid']
-        ref_gradx = align_args['ref_gradx'],
-        ref_grady = align_args['ref_grady'],
+        ref_gradx = align_args['ref_gradx']
+        ref_grady = align_args['ref_grady']
         hessian = align_args['hessian']
         
         
