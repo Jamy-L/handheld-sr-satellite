@@ -46,7 +46,6 @@ To run the code, follow these steps:
        "alignment": "Fnet",  # 'Fnet', 'ICA', 'patch ICA', the alignment method
    }
    ```
-   Note that the global ICA require to install the icaflow package available [here](link)
 
 4. Run the `example.py` script:
 
